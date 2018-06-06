@@ -1,0 +1,9 @@
+micronaut:
+  application:
+    name: hello-world
+  server:
+    port: 8080
+
+jackson:
+    serialization:
+        writeDatesAsTimestamps: false
